@@ -1,0 +1,4 @@
+Tumbleweed Procedures
+ 
+Software runs on [m/v][s/p]l-twbe01 and [m/v][s/p]l-edge01.  twbe is transport and edge is edge servers.
+https://mpl-twbe01:444/coreadmin/auth/login.jspx
